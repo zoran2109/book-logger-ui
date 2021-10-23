@@ -2,6 +2,11 @@
 
 This is UI for book logging app, developed in React.
 
+## Deploying to Heroku with Heroku buildpack for create-react-app
+
+https://blog.heroku.com/deploying-react-with-zero-configuration
+https://github.com/mars/create-react-app-buildpack#usage
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
