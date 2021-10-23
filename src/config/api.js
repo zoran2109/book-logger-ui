@@ -1,4 +1,4 @@
-const openLibraryEndpoint = 'http://openlibrary.org/search.json';
+const openLibraryEndpoint = 'https://openlibrary.org/search.json';
 
 /** Fetches data from open library
  * @param {string} searchType author, all(q) or titles
